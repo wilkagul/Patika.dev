@@ -1,0 +1,108 @@
+.img{
+    margin-top: 10px;
+    padding-left: 700px;
+    
+}
+
+.p{
+    margin-top: 5px;
+    margin-left:780px ;
+}
+.bosluk{
+    margin-top: -16px;
+    margin-left:720px ; 
+    width: 320px;
+    height: 20px;
+    background-color:white;
+    box-shadow: 1px 1px 0px 2px rgba(0,0,0,0.79);
+    -webkit-box-shadow: 1px 1px 0px 2px rgba(0,0,0,0.79);
+    -moz-box-shadow: 1px 1px 0px 2px rgba(0,0,0,0.79);}
+    .search{
+        margin-top: -10px;
+        margin-left: 765px;
+        padding: 2px;
+        text-align: center;
+        width: 110px;
+        height: 15px;
+        float: left;
+        background-color:rgb(233, 224, 224);
+        box-shadow: 1px 1px 0px 2px rgba(0,0,0,0.79);
+        -webkit-box-shadow: 1px 1px 0px 2px rgba(0,0,0,0.79);
+        -moz-box-shadow: 1px 1px 0px 2px rgba(0,0,0,0.79);
+
+    }
+    .feel{
+        margin-top: -35px;
+        margin-left: 885px;
+        width: 120px;
+        height: 20px;
+        text-align: center;
+        float: left;
+        background-color:rgb(233, 224, 224);
+        box-shadow: 1px 1px 0px 2px rgba(0,0,0,0.79);
+        -webkit-box-shadow: 1px 1px 0px 2px rgba(0,0,0,0.79);
+        -moz-box-shadow: 1px 1px 0px 2px rgba(0,0,0,0.79);
+
+    }
+    .kutu {
+        background-color: rgb(245, 238, 238);
+        width: 1800px;
+        height: 80px;
+        margin-top: 5px;
+        float: left;
+    }
+    .container1{
+        background-color:aqua;
+        width: 565px;
+        height: 60px;
+        margin-top: 90px;
+        text-align: center;
+        padding:10px;
+        text-align: center;
+    }
+    .container2{
+        background-color:aqua;
+        width: 300px;
+        height: -70px;
+        margin-top: -80px;
+        margin-left: 590px;
+        text-align: center;
+        padding:2px;
+        text-align: center;
+    }
+    .container3{
+        background-color:aqua;
+        width: 850px;
+        height: 75px;
+        margin-top: -80px;
+        margin-left: 900px;
+        text-align: center;
+        padding:2px;
+        text-align: center;
+    }
+    .mail{
+        width: 200px;
+        height: 20px;
+        margin-left: 320px;
+        background-color: white;
+        text-align: left;
+    }
+    .sub{
+        margin-left: 350px;
+        background-color: rgb(241, 235, 235);
+        width: 100px;
+        margin-top: -1px;
+        background-color:rgb(233, 224, 224);
+        box-shadow: 1px 1px 0px 1px rgba(0,0,0,0.79);
+        -webkit-box-shadow: 1px 1px 0px 1px rgba(0,0,0,0.79);
+        -moz-box-shadow: 1px 1px 0px 1px rgba(0,0,0,0.79);
+
+    }
+    .arc{
+        margin-left: 120px;
+        margin-top: -20px;
+    }
+    .cop{
+        margin-top: 30px;
+        text-align: center;
+    }
